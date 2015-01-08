@@ -1,0 +1,16 @@
+C:\Users\nishida.masashi\Documents\GitHub\UIAutomationTestVBNet\WindowsApplication1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\nishida.masashi\Documents\GitHub\UIAutomationTestVBNet\WindowsApplication1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\nishida.masashi\Documents\GitHub\UIAutomationTestVBNet\WindowsApplication1\ClassLibrary1\bin\Debug\ClassLibrary1.xml
+C:\Users\nishida.masashi\Documents\GitHub\UIAutomationTestVBNet\WindowsApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.Resources.resources
+C:\Users\nishida.masashi\Documents\GitHub\UIAutomationTestVBNet\WindowsApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.vbproj.GenerateResource.Cache
+C:\Users\nishida.masashi\Documents\GitHub\UIAutomationTestVBNet\WindowsApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\nishida.masashi\Documents\GitHub\UIAutomationTestVBNet\WindowsApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.xml
+C:\Users\nishida.masashi\Documents\GitHub\UIAutomationTestVBNet\WindowsApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\nishida.masashi\Documents\GitHub\UIAutomationTestVBNet\TestProject1\WindowsApplication1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\nishida.masashi\Documents\GitHub\UIAutomationTestVBNet\TestProject1\WindowsApplication1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\nishida.masashi\Documents\GitHub\UIAutomationTestVBNet\TestProject1\WindowsApplication1\ClassLibrary1\bin\Debug\ClassLibrary1.xml
+C:\Users\nishida.masashi\Documents\GitHub\UIAutomationTestVBNet\TestProject1\WindowsApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.Resources.resources
+C:\Users\nishida.masashi\Documents\GitHub\UIAutomationTestVBNet\TestProject1\WindowsApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.vbproj.GenerateResource.Cache
+C:\Users\nishida.masashi\Documents\GitHub\UIAutomationTestVBNet\TestProject1\WindowsApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\nishida.masashi\Documents\GitHub\UIAutomationTestVBNet\TestProject1\WindowsApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.xml
+C:\Users\nishida.masashi\Documents\GitHub\UIAutomationTestVBNet\TestProject1\WindowsApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

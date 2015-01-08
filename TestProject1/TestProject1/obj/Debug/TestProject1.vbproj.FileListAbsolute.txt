@@ -1,0 +1,13 @@
+C:\Users\nishida.masashi\Documents\GitHub\UIAutomationTestVBNet\TestProject1\TestProject1\bin\Debug\TestProject1.dll
+C:\Users\nishida.masashi\Documents\GitHub\UIAutomationTestVBNet\TestProject1\TestProject1\bin\Debug\TestProject1.pdb
+C:\Users\nishida.masashi\Documents\GitHub\UIAutomationTestVBNet\TestProject1\TestProject1\bin\Debug\TestProject1.xml
+C:\Users\nishida.masashi\Documents\GitHub\UIAutomationTestVBNet\TestProject1\TestProject1\obj\Debug\TestProject1.dll
+C:\Users\nishida.masashi\Documents\GitHub\UIAutomationTestVBNet\TestProject1\TestProject1\obj\Debug\TestProject1.xml
+C:\Users\nishida.masashi\Documents\GitHub\UIAutomationTestVBNet\TestProject1\TestProject1\obj\Debug\TestProject1.pdb
+C:\Users\nishida.masashi\Documents\GitHub\UIAutomationTestVBNet\TestProject1\TestProject1\bin\Debug\ClassLibrary1.dll
+C:\Users\nishida.masashi\Documents\GitHub\UIAutomationTestVBNet\TestProject1\TestProject1\bin\Debug\WindowsApplication1.exe
+C:\Users\nishida.masashi\Documents\GitHub\UIAutomationTestVBNet\TestProject1\TestProject1\bin\Debug\ClassLibrary1.pdb
+C:\Users\nishida.masashi\Documents\GitHub\UIAutomationTestVBNet\TestProject1\TestProject1\bin\Debug\ClassLibrary1.xml
+C:\Users\nishida.masashi\Documents\GitHub\UIAutomationTestVBNet\TestProject1\TestProject1\bin\Debug\WindowsApplication1.pdb
+C:\Users\nishida.masashi\Documents\GitHub\UIAutomationTestVBNet\TestProject1\TestProject1\bin\Debug\WindowsApplication1.xml
+C:\Users\nishida.masashi\Documents\GitHub\UIAutomationTestVBNet\TestProject1\TestProject1\obj\Debug\TestProject1.vbprojResolveAssemblyReference.cache

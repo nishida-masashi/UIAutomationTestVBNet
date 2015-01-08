@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="61fa6d58-ad0a-4c8c-a579-09d3f6832d3e" name="nishida.masashi@NISHIDAMASASHI 2015-01-08 23:35:14" runUser="nishidamasashi\nishida.masashi" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="ローカル" id="0ac42ee8-a8bc-44fc-8e0c-5524312f653a">
+    <Description>これらはローカル テスト実行用の既定のテスト設定です。</Description>
+    <Deployment runDeploymentRoot="nishida.masashi_NISHIDAMASASHI 2015-01-08 23_35_14">
+      <DeploymentItem filename="WindowsApplication1\WindowsApplication1\bin\" />
+      <DeploymentItem filename="C:\Users\nishida.masashi\Documents\GitHub\UIAutomationTestVBNet\TestProject1\WindowsApplication1\ClassLibrary1\bin\Debug\ClassLibrary1.dll" />
+      <DeploymentItem filename="C:\Users\nishida.masashi\Documents\GitHub\UIAutomationTestVBNet\TestProject1\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific>
+        <UnitTestRunConfig testTypeId="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b">
+          <AssemblyResolution>
+            <TestDirectory useLoadContext="true" />
+          </AssemblyResolution>
+        </UnitTestRunConfig>
+      </TestTypeSpecific>
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2015-01-08T23:35:14.6367311+09:00" queuing="2015-01-08T23:35:15.3597724+09:00" start="2015-01-08T23:35:15.4177757+09:00" finish="2015-01-08T23:35:17.6639042+09:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="Test_1" storage="c:\users\nishida.masashi\documents\github\uiautomationtestvbnet\testproject1\testproject1\bin\debug\testproject1.dll" id="b0098ae6-8b05-68aa-a9fe-d0c10224d8c7">
+      <Execution id="a35c7b9d-06d8-4df2-8234-c71e836135c1" />
+      <TestMethod codeBase="C:/Users/nishida.masashi/Documents/GitHub/UIAutomationTestVBNet/TestProject1/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Test_1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="一覧に存在しない結果" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="読み込まれたすべての結果" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="b0098ae6-8b05-68aa-a9fe-d0c10224d8c7" executionId="a35c7b9d-06d8-4df2-8234-c71e836135c1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="a35c7b9d-06d8-4df2-8234-c71e836135c1" testId="b0098ae6-8b05-68aa-a9fe-d0c10224d8c7" testName="Test_1" computerName="NISHIDAMASASHI" duration="00:00:01.7437698" startTime="2015-01-08T23:35:15.4497776+09:00" endTime="2015-01-08T23:35:17.5878999+09:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a35c7b9d-06d8-4df2-8234-c71e836135c1">
+      <Output>
+        <DebugTrace>Class1_AAA
+</DebugTrace>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>
